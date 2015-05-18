@@ -1,3 +1,3 @@
-# ut-browser
+# ut-amd
 
-unit test config for browser.
+ut config for amdjs
