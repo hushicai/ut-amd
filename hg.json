@@ -1,0 +1,13 @@
+{
+    "files": [
+        "test/*.js"
+    ],
+    "scripts": [
+        "npm install karma --save-dev",
+        "npm install karma-jasmine --save-dev",
+        "npm install karma-requirejs requirejs --save-dev",
+        "npm install karma-phantomjs-launcher --save-dev",
+        "npm install karma-coverage --save-dev",
+        "npm install karma-mocha-reporter --save-dev"
+    ]
+}
